@@ -1,0 +1,6 @@
+class UTIL {
+    constructor() {
+    }
+
+    
+}
